@@ -1,0 +1,18 @@
+# Dependencies
+apps/web/node_modules/
+
+# Build outputs
+apps/web/dist/
+apps/api/target/
+
+# IDEs and editors
+.idea/
+.vscode/
+.codex
+
+# Environment files
+.env
+.env.*
+
+# Operating system files
+.DS_Store
